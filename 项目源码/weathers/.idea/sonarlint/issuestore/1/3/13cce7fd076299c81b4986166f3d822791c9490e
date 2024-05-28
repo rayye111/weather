@@ -1,0 +1,14 @@
+
+hpython:S1192H"KDefine a constant instead of duplicating this literal 'login.html' 3 times.(Ôœ†±ûÿÿÿÿ
+Cpython:S5806}"+Rename this variable; it shadows a builtin.( ÇÅ§
+Dpython:S5806‹"+Rename this variable; it shadows a builtin.(«ºòÀ
+Dpython:S5806“"+Rename this variable; it shadows a builtin.(â½Ó
+Dpython:S5806™"+Rename this variable; it shadows a builtin.(«ºòÀ
+Dpython:S5806¢"+Rename this variable; it shadows a builtin.(â½Ó
+Dpython:S5806Ğ"+Rename this variable; it shadows a builtin.(â½Ó
+Dpython:S5806Û"+Rename this variable; it shadows a builtin.(â½Ó
+kpython:S1542ì"RRename function "get_AQI_data" to match the regular expression ^[a-z_][a-z0-9_]*$.(éŒû
+Dpython:S5806 "+Rename this variable; it shadows a builtin.(â½Ó
+Dpython:S5806¯"+Rename this variable; it shadows a builtin.(â½Ó
+Dpython:S5806Ò"+Rename this variable; it shadows a builtin.(â½Ó
+Dpython:S5806Ü"+Rename this variable; it shadows a builtin.(â½Ó
